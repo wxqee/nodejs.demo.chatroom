@@ -1,0 +1,9 @@
+{
+	"name": "chatroom",
+	"version": "0.0.1",
+	"description": "Minimalist sultiroom chat server.",
+	"dependencies": {
+		"socket.io": "*",
+		"mine": "*"
+	}
+}
