@@ -4,6 +4,6 @@
 	"description": "Minimalist sultiroom chat server.",
 	"dependencies": {
 		"socket.io": "*",
-		"mine": "*"
+		"mime": "*"
 	}
 }
